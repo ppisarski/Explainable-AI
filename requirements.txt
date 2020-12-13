@@ -1,0 +1,7 @@
+numpy
+pandas
+sklearn
+lime
+explainx
+notebook
+ipykernel
